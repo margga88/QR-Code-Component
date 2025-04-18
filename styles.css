@@ -1,0 +1,36 @@
+html {
+    font-size: 12px;
+}
+
+
+body {
+    display: flex;
+    justify-content:center;
+    background-color: hsl(212, 45%, 89%);
+}
+
+#card {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 300px;
+    height: 450px;
+    background-color: white;
+    margin: 80px auto;
+    border-radius: 10px;
+}
+
+#card img {
+    width: 270px;
+    margin-top: 15px;
+    border-radius: 10px; 
+}
+
+.attribution {
+    font-size: 11px; 
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}

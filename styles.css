@@ -28,46 +28,75 @@ html {
 body {
     display: flex;
     justify-content:center;
-    background-color: hsl(212, 45%, 89%);
+    align-items: center;    
+    background-color: hsl(212, 45%, 89%);    
+    box-sizing: border-box;
+    margin: 0;
+    min-height: 100vh;
+    padding: 5px;           
 }
 
-#card {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
+main {
+    height: 100%;
+}
+
+footer {    
+    position: absolute;
+    bottom: 5px;    
+}
+
+.card {    
     width: 288px;
-    height: 450px;
+    height: 448px;
     background-color: white;
-    margin: 80px auto;
+    margin: 90px auto;
     border-radius: 15px;
-    box-shadow: 2px 5px 10px 10px hsl(216, 15%, 85%);    
+    box-shadow: 2px 5px 10px 10px hsl(216, 15%, 85%);           
 }
 
-#card img {
-    width: 258px;
-    height: 260px;
-    margin-top: 15px;
+#qr-wrapper img {
+    width: 256px;
+    height: 256px;        
     border-radius: 10px; 
+    margin-top: 15px;
 }
 
-#text {
-    margin: 0px 25px;
-    
+.text {    
+    margin: 0 auto; 
+    width: 256px;     
 }
 
-h1 {
+#qr-wrapper {
+    width: 256px;
+    height: 256px;     
+    margin-top: 15px;
+    margin-bottom: 0;
+     
+}
+
+#text-wrapper {       
+    width: 256px;
+    height: 123px;    
+    margin: 32px auto;
+       
+}
+
+#text-wrapper h1 {
+   position: relative;
    text-align: center;
    font-size: 1.70rem;
    color: hsl(218, 44%, 22%);
    font-weight: 700;
+   margin: 0 auto;    
 }
 
-p {
+#text-wrapper p {
+    position: relative;
     text-align: center;
     font-size: 1.15rem;
     font-weight: 400;    
     color: hsl(216, 15%, 48%);
-    
+    margin: 15px 10px 0px 10px;     
 }
 
 .attribution {

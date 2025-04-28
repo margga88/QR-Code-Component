@@ -23,4 +23,5 @@ _23.04.2025_
 
 REASON: It was useless when the parent container (body) has already the specifications and it called more for .card to have its own wrapper.
 
-_24.05.2025_ the .attribution div was moved to the footer section and adjusted with position property set absolute and a value for the bottom property.
+_24.05.2025_ the .attribution div was moved to the footer section and adjusted with **position** property set absolute and a value for the **bottom** property.
+

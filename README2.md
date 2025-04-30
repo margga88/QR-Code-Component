@@ -39,7 +39,7 @@ Live Site URL: ![Live preview]()
 
 This project has served as a quite the test for me and my knowledge, while it's a simple project it can have its share of twists when you finally stop focusing on the theory and dive into practice.
 
-- **'noopener'**. This was a novelty for me since most courses don't mention this kind of value for the _rel_ attribute. My code editor would show an error if I refuse to add it to the ```<a>``` element. ![w3schools](https://www.w3schools.com/TAGS/att_a_rel.asp) defines it as a value that: "Requires that any browsing context created by following the hyperlink must not have an opener browsing context".
+- **'noopener'**. This was a novelty for me since most courses don't mention this kind of value for the _rel_ attribute. My code editor would show an error if I refuse to add it to the ```<a>``` element. [w3schools](https://www.w3schools.com/TAGS/att_a_rel.asp) defines it as a value that: "Requires that any browsing context created by following the hyperlink must not have an opener browsing context".
 
 - **Applications of border-radius property**. Or more like the non-applicatives of it, the property doesn't apply with the _img_ element if you use padding in any of it's sides, so, to create the space between elements is most preferrable to use the margin property. At least it's what I've found out while working on this project.
 
@@ -58,5 +58,18 @@ This project has served as a quite the test for me and my knowledge, while it's 
 
 ### Useful resources
 
-- 
+- [Mastering FrontEnd Mentor Challenge 1 QR Code Component](https://medium.com/@gorokhovgleb/mastering-frontend-mentor-challenge-1-qr-code-component-553486fad21d) - This was definitely the resource I consulted the most to solve a few issues in my code.
+
+- [MDN Web Docs](https://developer.mozilla.org/)
+
+- [W3Schools Online Web Tutorials](https://www.w3schools.com/)
+
+## Author
+
+- Frontend Mentor - [@margga88](https://www.frontendmentor.io/profile/margga88)
+
+
+## Acknowledgements
+
+I'd like to thank Gleb Gorokhov, his solution was of big help to solve the minor issues I had with my project.
 

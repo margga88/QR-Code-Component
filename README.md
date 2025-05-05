@@ -20,12 +20,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Design preview for the QR Component Challenge](./preview2.png)
+![Design preview for the QR Component Challenge](./preview.png)
 
 ### Links
 
-Solution URL: ![Repository]()
-Live Site URL: ![Live preview]()
+Solution URL: [Repository]()
+Live Site URL: [Live preview]()
 
 ## My process
 

@@ -46,46 +46,46 @@ footer {
 }
 
 .card {    
-    width: 300px;
-    height: 460px;
+    width: 320px;
+    height: 495px;
     background-color: white;
-    margin: 90px auto;
-    border-radius: 15px;
-    box-shadow: 2px 5px 10px 10px hsl(216, 15%, 85%);           
+    margin: 75px auto;
+    border-radius: 20px;
+    box-shadow: 1px 3px 10px 10px hsla(210, 4%, 82%, 0.466);           
 }
 
 #qr-wrapper img {
-    width: 268px;
-    height: 268px;        
+    width: 288px;
+    height: 288px;        
     border-radius: 10px; 
     margin-top: 15px;
 }
 
 .text {    
     margin: 0 auto; 
-    width: 268px;     
+    width: 288px;     
 }
 
 #qr-wrapper {
-    width: 268px;
-    height: 268px;     
+    width: 288px;
+    height: 288px;     
     margin-top: 15px;
     margin-bottom: 0;
      
 }
 
 #text-wrapper {       
-    width: 268px;
-    height: 135px;    
-    margin: 32px auto;
+    width: 288px;
+    height: 155px;        
+    margin: 39px auto;
        
 }
 
 #text-wrapper h1 {
    position: relative;
    text-align: center;
-   font-size: 1.72rem;
-   color: hsl(218, 44%, 22%);
+   font-size: 1.86rem;
+   color: hsla(217, 45%, 22%, 0.945);
    font-weight: 700;
    margin: 0 auto;    
 }
@@ -93,7 +93,7 @@ footer {
 #text-wrapper p {    
     position: relative;
     text-align: center;
-    font-size: 1.17rem;
+    font-size: 1.28rem;
     font-weight: 400;    
     color: hsl(216, 15%, 48%);
     margin: 15px 10px 0px 10px;     

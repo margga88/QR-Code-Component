@@ -46,8 +46,8 @@ footer {
 }
 
 .card {    
-    width: 288px;
-    height: 448px;
+    width: 300px;
+    height: 460px;
     background-color: white;
     margin: 90px auto;
     border-radius: 15px;
@@ -55,28 +55,28 @@ footer {
 }
 
 #qr-wrapper img {
-    width: 256px;
-    height: 256px;        
+    width: 268px;
+    height: 268px;        
     border-radius: 10px; 
     margin-top: 15px;
 }
 
 .text {    
     margin: 0 auto; 
-    width: 256px;     
+    width: 268px;     
 }
 
 #qr-wrapper {
-    width: 256px;
-    height: 256px;     
+    width: 268px;
+    height: 268px;     
     margin-top: 15px;
     margin-bottom: 0;
      
 }
 
 #text-wrapper {       
-    width: 256px;
-    height: 123px;    
+    width: 268px;
+    height: 135px;    
     margin: 32px auto;
        
 }

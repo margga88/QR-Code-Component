@@ -84,16 +84,16 @@ footer {
 #text-wrapper h1 {
    position: relative;
    text-align: center;
-   font-size: 1.70rem;
+   font-size: 1.72rem;
    color: hsl(218, 44%, 22%);
    font-weight: 700;
    margin: 0 auto;    
 }
 
-#text-wrapper p {
+#text-wrapper p {    
     position: relative;
     text-align: center;
-    font-size: 1.15rem;
+    font-size: 1.17rem;
     font-weight: 400;    
     color: hsl(216, 15%, 48%);
     margin: 15px 10px 0px 10px;     
